@@ -28,4 +28,3 @@ This repository contains exercises and notes for [The Complete Spring Developmen
 <hr>
 
 ## 1. Intro to Spring Boot
-
